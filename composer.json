@@ -1,8 +1,8 @@
 {
-    "name": "maximebf/debugbar",
+    "name": "sang-asia/debugbar",
     "description": "Debug bar in the browser for php application",
     "keywords": ["debug", "debugbar"],
-    "homepage": "https://github.com/maximebf/php-debugbar",
+    "homepage": "https://github.com/sang-asia/php-debugbar",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -17,13 +17,13 @@
         }
     ],
     "require": {
-        "php": "^7.1|^8",
-        "psr/log": "^1|^2|^3",
-        "symfony/var-dumper": "^2.6|^3|^4|^5|^6"
+        "php": "^8",
+        "psr/log": "^3",
+        "symfony/var-dumper": "^6"
     },
     "require-dev": {
         "phpunit/phpunit": "^7.5.20 || ^9.4.2",
-        "twig/twig": "^1.38|^2.7|^3.0"
+        "twig/twig": "^3.0"
     },
     "autoload": {
         "psr-4": {
