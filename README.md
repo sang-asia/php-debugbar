@@ -1,11 +1,11 @@
 # PHP Debug Bar
 
-[![Latest Stable Version](https://poser.pugx.org/maximebf/debugbar/v/stable.png)](https://packagist.org/packages/maximebf/debugbar) [![Total Downloads](https://poser.pugx.org/maximebf/debugbar/downloads.svg)](https://packagist.org/packages/maximebf/debugbar) [![License](https://poser.pugx.org/maximebf/debugbar/license.svg)](https://packagist.org/packages/maximebf/debugbar) [![Tests](https://github.com/maximebf/php-debugbar/actions/workflows/run-tests.yml/badge.svg)](https://github.com/maximebf/php-debugbar/actions/workflows/run-tests.yml)
+[![Latest Stable Version](https://poser.pugx.org/sang-asia/debugbar/v/stable.png)](https://packagist.org/packages/sang-asia/debugbar) [![Total Downloads](https://poser.pugx.org/sang-asia/debugbar/downloads.svg)](https://packagist.org/packages/sang-asia/debugbar) [![License](https://poser.pugx.org/sang-asia/debugbar/license.svg)](https://packagist.org/packages/sang-asia/debugbar) [![Tests](https://github.com/maximebf/php-debugbar/actions/workflows/run-tests.yml/badge.svg)](https://github.com/sang-asia/php-debugbar/actions/workflows/run-tests.yml)
 
 Displays a debug bar in the browser with information from php.
 No more `var_dump()` in your code!
 
-![Screenshot](https://raw.github.com/maximebf/php-debugbar/master/docs/screenshot.png)
+![Screenshot](https://raw.github.com/sang-asia/php-debugbar/master/docs/screenshot.png)
 
 **Features:**
 
@@ -30,7 +30,7 @@ Includes collectors for:
   - [Swift Mailer](http://swiftmailer.org/)
   - [Twig](http://twig.sensiolabs.org/)
 
-Checkout the [demo](https://github.com/maximebf/php-debugbar/tree/master/demo) for
+Checkout the [demo](https://github.com/sang-asia/php-debugbar/tree/master/demo) for
 examples and [phpdebugbar.com](http://phpdebugbar.com) for a live example.
 
 Integrations with other frameworks:

@@ -1,0 +1,45 @@
+div.phpdebugbar {
+    font-size: 12px;
+}
+
+div.phpdebugbar input[type='text'], div.phpdebugbar input[type='password'] {
+    font-size: 12px;
+}
+
+a.phpdebugbar-restore-btn {
+    font-size: 12px;
+}
+
+div.phpdebugbar-header > div > * {
+    font-size: 12px;
+}
+
+div.phpdebugbar-header-right > select {
+    height: 23px;
+}
+
+a.phpdebugbar-tab.phpdebugbar-active {
+    background-image: linear-gradient(bottom, rgb(173,173,173) 41%, rgb(209,209,209) 71%);
+    background-image: -o-linear-gradient(bottom, rgb(173,173,173) 41%, rgb(209,209,209) 71%);
+    background-image: -moz-linear-gradient(bottom, rgb(173,173,173) 41%, rgb(209,209,209) 71%);
+    background-image: -webkit-linear-gradient(bottom, rgb(173,173,173) 41%, rgb(209,209,209) 71%);
+    background-image: -ms-linear-gradient(bottom, rgb(173,173,173) 41%, rgb(209,209,209) 71%);
+    background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.41, rgb(173,173,173)), color-stop(0.71, rgb(209,209,209)));
+}
+
+ul.phpdebugbar-widgets-timeline li span.phpdebugbar-widgets-label,
+ul.phpdebugbar-widgets-timeline li span.phpdebugbar-widgets-collector {
+    text-shadow: 1px 0 0 #fff, -1px 0 0 #fff, 0 1px 0 #fff, 0 -1px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+}
+
+ul.phpdebugbar-widgets-timeline li span.phpdebugbar-widgets-value {
+    height: 12px;
+    background: #d9d9d9;
+    top: 4px;
+    border-bottom: solid 1px #adadad;
+    border-right: solid 1px #adadad;
+}
+
+ul.phpdebugbar-widgets-timeline table.phpdebugbar-widgets-params {
+    font-size: 12px;
+}

@@ -48,7 +48,7 @@ class JavascriptRenderer
 
     protected $includeVendors = true;
 
-    protected $cssFiles = array('debugbar.css', 'widgets.css', 'openhandler.css');
+    protected $cssFiles = array('debugbar.css', 'widgets.css', 'openhandler.css', 'custom.css');
 
     protected $jsFiles = array('debugbar.js', 'widgets.js', 'openhandler.js');
 
